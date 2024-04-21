@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 王宇涵
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+#name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Yuhan
+last_name: Wang
 
 # Status emoji
 status:
@@ -17,34 +17,29 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Undergraduate of Electronic Enginnering
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Dalian Maritime University
+    url: https://www.dlmu.edu.cn
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Integrated Circuit Design, Chip Development, Machine Learning and BioMedical Engineering.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Integrated Circuit Design
+  - Chip Development
+  - Machine Learning
+  - BioMedical Engineering
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: BSc in Electronic Enginnering
+      institution: Dalian Maritime University
+      year: 2025
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -56,35 +51,42 @@ skills:
         percent: 80
         icon: python
         icon_pack: fab
-      - name: Data Science
+      - name: C
         description: ''
         percent: 100
-        icon: chart-line
+        icon: C(Especially in Embedded System)
         icon_pack: fas
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: database
-        icon_pack: fas
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-hiking
-        icon_pack: fas
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-        icon_pack: fas
-      - name: Photography
+      - name: Matlab
         description: ''
         percent: 80
-        icon: camera-retro
+        icon: matlab
         icon_pack: fas
+      - name: Assembly Language
+        description: ''
+        percent: 90
+        icon: assembly Language
+        icon_pack: fas
+      - name: Origin
+        description: ''
+        percent: 50
+        icon: Origin
+        icon_pack: fas
+      - name: Multisim
+        description: ''
+        percent: 70
+        icon: Multisim
+        icon_pack: fas
+      - name: Keil
+        description: ''
+        percent: 90
+        icon: Keil
+        icon_pack: fas
+      - name: Office
+        description: ''
+        percent: 95
+        icon: Office
+        icon_pack: fas
+
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -93,22 +95,10 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: 'mailto:557537577mm@dlmu.edu.cn'
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://github.com/9LEWANDOWSKI9
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -120,5 +110,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hello, my name is Yuhan Wang and I am from Dalian Maritime University(211). In the past five semesters, my GPA is 4.34/5 and the rank is 2/92. My research interests in postgraduate include IC design, Chip development, Machine Learning and BioMedical Enginnering. Standing in the intersaction of AI and modern theory, I believe the intelligent system of our times has come to a turning point. I will be committed to developing the AI-based theory and applying it to various fields, including medicine, telecommunication, hardware and so on.
 {style="text-align: justify;"}
